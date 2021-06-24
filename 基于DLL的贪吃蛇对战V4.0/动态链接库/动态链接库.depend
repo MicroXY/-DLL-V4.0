@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1584688463 source:c:\users\22486\desktop\基于dll的贪吃蛇对战\动态链接库\snake.cpp
+	"machine.h"
+
+1584688601 c:\users\22486\desktop\基于dll的贪吃蛇对战\动态链接库\machine.h
+	<windows.h>
+	"snake.h"
+
+1584688770 c:\users\22486\desktop\基于dll的贪吃蛇对战\动态链接库\snake.h
+	<windows.h>
+	<cstdio>
+	<conio.h>
+	<cstdlib>
+	<math.h>
+	<fstream>
+	<iostream>
+	<windows.h>
+	<time.h>
+
